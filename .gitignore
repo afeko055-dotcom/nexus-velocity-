@@ -1,0 +1,22 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+
+# Generated build artifacts (preserve tracked .gitkeep directory markers)
+builds/development/*
+!builds/development/.gitkeep
+builds/releases/*
+!builds/releases/.gitkeep
+*.apk
+*.aab
+*.exe
+*.zip
+*.obb
+*.keystore
+*.jks
+.aistudio/

@@ -1,0 +1,6 @@
+{
+  "name": "NEXUS VELOCITY — Stage 01 Foundation",
+  "description": "Project foundation, governance documentation, validation tooling, and multi-AI handoff workspace for NEXUS VELOCITY (Stage 01).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
